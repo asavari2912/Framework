@@ -6,7 +6,6 @@ import com.w2a.base.Page;
 
 public class AccountsPage  extends Page{
 	
-	
 	public CreateAccountPage gotoCreateAccounts(){
 		
 		click("createaccountbtn_CSS");
